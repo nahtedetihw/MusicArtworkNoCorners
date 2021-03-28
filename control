@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.musicartworknocorners
+Name: MusicArtworkNoCorners
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Remove artwork corner radius in Apple Music!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
